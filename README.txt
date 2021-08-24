@@ -1,6 +1,8 @@
 James Vlasak (vlasa020)
 
-Project Details: This project was from an Algorithms and Data Structures course at the University of Minnesota. In this particular project, I used Java to build hash tables, place generic nodes in the hash table, and write functions in order to place these nodes in the best way possible. These functions were written to reduce the amount of collisions in each bucket. I utilized chaining in order to deal with collisions
+Project Details: This project was from an Algorithms and Data Structures course at the University of Minnesota. In this particular project,
+I used Java to build hash tables, place generic nodes in the hash table, and write functions in order to place these nodes in the best way possible.
+These functions were written to reduce the amount of collisions in each bucket. I utilized chaining in order to deal with collisions
 
 How to run this code:
 - ```git clone``` the repo, then open up the repo using your preferred IDE
